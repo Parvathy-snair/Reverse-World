@@ -119,7 +119,78 @@ Reverse-World/
 ├── package.json
 └── vite.config.js
 ```
+# 📂 Code Structure
 
+Main application flow  
+```
+src/App.jsx
+```
+
+Onboarding / Name input  
+```
+src/components/NameSelector.jsx
+```
+
+Fake loading screen  
+```
+src/components/FakeLoader.jsx
+```
+
+Preference trap  
+```
+src/components/PreferenceTest.jsx
+```
+
+Dashboard with deceptive controls  
+```
+src/components/Dashboard.jsx
+```
+
+Game hub  
+```
+src/components/GameHub.jsx
+```
+
+Reverse Catch Game  
+```
+src/components/ReverseCatchGame.jsx
+```
+
+Reverse Tic Tac Toe  
+```
+src/components/ReverseTicTacToe.jsx
+```
+
+Reverse Water Sort  
+```
+src/components/ReverseWaterSort.jsx
+```
+
+Notification Defuser  
+```
+src/components/NotificationDefuser.jsx
+```
+
+Deceptive CAPTCHA  
+```
+src/components/Captcha.jsx
+```
+
+Final surprise ending  
+```
+src/components/SmartEnding.jsx
+```
+
+Sound system  
+```
+src/utils/SoundManager.jsx
+```
+
+Global styles  
+```
+src/index.css
+```
+---
 
 ## 🔄 Reverse Navigation
 
