@@ -119,12 +119,19 @@ https://reverseworlddd.netlify.app/
 
 ---
 
+## 🔄 Reverse Navigation
+
+Some game areas intentionally invert directional behavior to enhance the deceptive experience. Moving the cursor upward may cause elements to move downward, and moving downward may produce the opposite response. This reversed navigation challenges user instincts and reinforces the core Reverse World concept, creating playful confusion while keeping the interaction intuitive and engaging.
+
+---
+
 ## 🔊 Sound Design
 
 Reverse World includes a context-aware sound system that enhances the deceptive experience. Audio feedback changes based on user interactions, UI transitions, and mini-games to reinforce unexpected behavior. Subtle background sounds, misleading cues, and surprise effects are used to create playful confusion while keeping the experience engaging and non-intrusive. Sound can also be toggled within the interface for accessibility.
-# 📦 Installation
 
 ---
+# 📦 Installation
+
 Clone the repository
 
 ```bash
