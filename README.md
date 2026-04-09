@@ -119,8 +119,12 @@ https://reverseworlddd.netlify.app/
 
 ---
 
+## 🔊 Sound Design
+
+Reverse World includes a context-aware sound system that enhances the deceptive experience. Audio feedback changes based on user interactions, UI transitions, and mini-games to reinforce unexpected behavior. Subtle background sounds, misleading cues, and surprise effects are used to create playful confusion while keeping the experience engaging and non-intrusive. Sound can also be toggled within the interface for accessibility.
 # 📦 Installation
 
+---
 Clone the repository
 
 ```bash
