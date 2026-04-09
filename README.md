@@ -10,9 +10,9 @@ Inspired by April Fool–style interactions, Reverse World focuses on creative d
 
 [reverseworlddd.netlify.app](https://reverseworlddd.netlify.app/)
 
-🔊 For the best experience, enable sound.  
-🎮 In the game tab, scrolling is reversed — scroll up to move down and scroll down to move up.
-📱 On mobile devices, use "Desktop site" for the intended experience.
+🔊 Enable sound for the best experience.  
+🎮 Game Tab uses reversed scrolling (scroll up → move down).  
+📱 On mobile, enable "Desktop site" for the intended experience.
 
 ---
 # 🎭 Concept
