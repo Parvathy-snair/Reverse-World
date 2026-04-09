@@ -6,6 +6,11 @@ Inspired by April Fool–style interactions, Reverse World focuses on creative d
 
 ---
 
+# 🚀 Live Demo
+
+[reverseworlddd.netlify.app](https://reverseworlddd.netlify.app/)
+
+---
 # 🎭 Concept
 
 Reverse World introduces a **Paradoxical Interactivity Layer** where user actions behave opposite to expectations.  
@@ -111,13 +116,6 @@ Reverse-World/
 └── vite.config.js
 ```
 
----
-
-# 🚀 Live Demo
-
-[reverseworlddd.netlify.app](https://reverseworlddd.netlify.app/)
-
----
 
 ## 🔄 Reverse Navigation
 
