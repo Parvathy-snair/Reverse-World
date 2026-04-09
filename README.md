@@ -115,7 +115,7 @@ Reverse-World/
 
 # 🚀 Live Demo
 
-https://reverseworlddd.netlify.app/
+reverseworlddd.netlify.app
 
 ---
 
